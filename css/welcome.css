@@ -1,0 +1,9 @@
+body{
+	background-color: yellow;
+}
+
+.card{
+	object-position: center;
+	font-size: 18px;
+	font-weight: bold;
+}
